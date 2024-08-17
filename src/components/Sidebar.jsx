@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaHome, FaVideo, FaPlayCircle, FaBook, FaList, FaClock, FaThumbsUp, FaBars, FaAngleRight, FaDownload, FaUserCircle } from 'react-icons/fa';
+import { FaHome, FaVideo, FaPlayCircle, FaBook, FaList, FaClock, FaThumbsUp, FaAngleRight, FaDownload, FaUserCircle } from 'react-icons/fa';
 
 const Sidebar = () => {
   return (
